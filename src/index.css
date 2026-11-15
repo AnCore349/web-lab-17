@@ -89,6 +89,7 @@ button {
   flex: 1;
   width: 100%;
   min-height: 320px;
+  overflow: hidden;
 }
 
 .review {
